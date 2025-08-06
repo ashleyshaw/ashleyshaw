@@ -35,7 +35,7 @@ I’m Ash Shaw — Founder & CEO of [LightSpeed](https://lightspeedwp.agency), a
 ### Blog, speaking & podcast highlights
 - My WordCamp Europe 2025 session: **“Bridging Design and Development: Figma Design Systems for WordPress Success”**, showcased real-world implementations of Figma modes, typography variables, and theme.json workflows for clients like Novus Media :contentReference
 - Guest profile & latest blog posts: [LightSpeed Author – Ash Shaw](https://lightspeedwp.agency/author/ashley/) – cutting‑edge articles over the last six months on workflow, Copilot, and design systems  
-- Featured guest on **OpenChannels.FM** (Publishing Flow series) discussing Figma systems and WordPress workflows
+- Featured [guest on **OpenChannels.FM**](https://openchannels.fm/guest/ash-shaw/) (Publishing Flow series) discussing Figma systems and WordPress workflows 
 
 ### How to reach me
 - [LightSpeed Website](https://lightspeedwp.agency)  
